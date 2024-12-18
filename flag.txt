@@ -1,0 +1,95 @@
+libft flag:
+
+Rnpu cebwrpg va gur 42 Pbzzba Pber pbagnvaf na rapbqrq uvag. Sbe rnpu
+pvepyr, bayl bar cebwrpg cebivqrf gur pbeerpg uvag arrqrq sbe gur
+arkg pvepyr. Guvf punyyratr vf vaqvivqhny, jvgu n svany cevmr sbe
+bar fghqrag. Fgnss zrzoref znl cnegvpvcngr ohg ner abg ryvtvoyr sbe n
+cevmr. Ner lbh nzbat gur irel svefg gb fbyir n pvepyr? Fraq gur uvagf
+jvgu rkcynangvbaf gb by@42.se gb or nqqrq gb gur yrnqreobneq. Gur
+uvag sbe guvf svefg cebwrpg, juvpu znl pbagnva nantenzzrq jbeqf, vf:
+Jbys bs ntragvir cnegvpyrf gung qvfcebir terral gb lbhe ubzrf qan
+gung cebjfr lbhe fgbby
+
+answer:
+
+Each project in the 42 Common Core contains an encoded hint. For each
+circle, only one project provides the correct hint needed for the
+next circle. This challenge is individual, with a final prize for
+one student. Staff members may participate but are not eligible for a
+prize. Are you among the very first to solve a circle? Send the hints
+with explanations to ol@42.fr to be added to the leaderboard. The
+hint for this first project, which may contain anagrammed words, is:
+Wolf of agentive particles that disprove greeny to your homes dna
+that prowse your stool
+
+Flow of negative particles that provides energy to your home and powers your tools.
+
+B2broot : 
+
+0010 01 11 111 001 000 11 01 10 1 0000 01 1 1010 111 11 0 000
+011 00 1 0000 1 0000 0 01 0100 1 0 010 10 01 1 0 0001 0 010 000
+00 111 10 111 0010 001100 001100 001100
+
+answer :
+
+Famous man that comes with the alternatives version of ???
+
+gnl : 
+
+/=∂/\/\[](_)§ /\/\@|V †|-|@¯|¯ /-/!570®1<|-\£1_`/ ¢@/\/\ε vv!7}{ ???
+
+answer :
+
+Famous man that historically came with ???
+
+printf : 
+
+++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>.>---.++++++++++++.++.+++
++++.--.<<++.>>------.------------.+++++++++++++.<<.>>++++++.------------
+.-------. +++++++++++++++++++.<<.>>----------------.+++++.+++++++++.---
+----------.--.+ ++++++++++++++++.--------.+++++++++++++.<<.>>----------
+-------------.+++.+++ ++++.---.----.+++++++++++++++++.---------------
+--.-.<<.>>+++++.+++++.<<.>-------...
+
+answer : 
+
+Famous man that directly believed in ???
+
+Push swap: 
+
+file.bfe:VABB7yO9xm7xWXROeASsmsgnY0o0sDMJev7zFHhwQS8mvM8V5xQQp
+Lc6cDCFXDWTiFzZ2H9skYkiJ/DpQtnM/uZ0
+
+minitalk:
+
+file.bfe:VAAe8ElCrUAbXivz0ueiIpv/u/ia9PL50+HI+8/bgPKLESHlp
+tPLpu0PW9zWV/LwDVaOqCRCGu6Gopk1X0i6Kn7t
+
+pipex: 
+
+file.bfe:VACsSfsWN1cy33ROeASsmsgnY0o0sDMJev7zFHhw
+QS8mvM8V5xQQpLc6cDCFXDWTiFzZ2H9skYkiJ/DpQtnM/uZ0
+
+so long:
+
+file.bfe:VAA0DAYFf07ym3ROeASsmsgnY0o0sDMJev7zFHhwQ
+S8mvM8V5xQQpLc6cDCFXDWTiFzZ2H9skYkiJ/DpQtnM/uZ0
+
+fdf : 
+
+file.bfe:VADYjxBiOQSAWNqB652klCj13URaziELdHd+2Z38
+XCMD9dvO9tSyFob6Il3NBX9YXrgZEiQK7JZJ7w5t0N80wMl7
+
+fractol:
+
+file.bfe:VAD2sO2qgbqPEXROeASsmsgnY0o0sDMJev7zFHhw
+QS8mvM8V5xQQpLc6cDCFXDWTiFzZ2H9skYkiJ/DpQtnM/uZ0
+
+ciphertexts = {
+    "Push swap": "VABB7yO9xm7xWXROeASsmsgnY0o0sDMJev7zFHhwQS8mvM8V5xQQpLc6cDCFXDWTiFzZ2H9skYkiJ/DpQtnM/uZ0",
+    "minitalk": "VAAe8ElCrUAbXivz0ueiIpv/u/ia9PL50+HI+8/bgPKLESHlptPLpu0PW9zWV/LwDVaOqCRCGu6Gopk1X0i6Kn7t",
+    "pipex": "VACsSfsWN1cy33ROeASsmsgnY0o0sDMJev7zFHhwQS8mvM8V5xQQpLc6cDCFXDWTiFzZ2H9skYkiJ/DpQtnM/uZ0",
+    "so long": "VAA0DAYFf07ym3ROeASsmsgnY0o0sDMJev7zFHhwQS8mvM8V5xQQpLc6cDCFXDWTiFzZ2H9skYkiJ/DpQtnM/uZ0",
+    "fdf": "VADYjxBiOQSAWNqB652klCj13URaziELdHd+2Z38XCMD9dvO9tSyFob6Il3NBX9YXrgZEiQK7JZJ7w5t0N80wMl7",
+    "fractol": "VAD2sO2qgbqPEXROeASsmsgnY0o0sDMJev7zFHhwQS8mvM8V5xQQpLc6cDCFXDWTiFzZ2H9skYkiJ/DpQtnM/uZ0"
+}
