@@ -37,7 +37,7 @@ Famous man that comes with the alternatives version of ???
 gnl : 
 
 /=∂/\/\[](_)§ /\/\@|V †|-|@¯|¯ /-/!570®1<|-\£1_`/ ¢@/\/\ε vv!7}{ ???
-
+|V!<
 answer :
 
 Famous man that historically came with ???
@@ -93,3 +93,7 @@ ciphertexts = {
     "fdf": "VADYjxBiOQSAWNqB652klCj13URaziELdHd+2Z38XCMD9dvO9tSyFob6Il3NBX9YXrgZEiQK7JZJ7w5t0N80wMl7",
     "fractol": "VAD2sO2qgbqPEXROeASsmsgnY0o0sDMJev7zFHhwQS8mvM8V5xQQpLc6cDCFXDWTiFzZ2H9skYkiJ/DpQtnM/uZ0"
 }
+
+Nikola Tesla
+Benjamin Franklin
+Thomas Edison
