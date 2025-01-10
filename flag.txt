@@ -122,6 +122,13 @@ Nikola Tesla
 Benjamin Franklin
 Thomas Edison
 
+ENIAC
+SSEM
+IBM29
+MARKI
+UNIVAC
+EDVAC
+
 Philo:
 
 V L ( L p aW 8
