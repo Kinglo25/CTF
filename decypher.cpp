@@ -20,7 +20,7 @@ std::string line;
 
     for (int i = 0; i < 23; i++) {
         std::ifstream file("flag.txt");
-        std::cout << decypher("famous man tibu ejsfdumz cfmjfwfe jo ???", i) << std::endl;
+        std::cout << decypher("0iq oz jznntwq5 hv ut6 eqs4l bwn1akms mfc lpngk", i) << std::endl;
         file.close();
     }    
     return 0;
