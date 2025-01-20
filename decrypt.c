@@ -4,5 +4,5 @@
 
 int main()
 {
-    printf("%s\n", crypt("password", "$3$$"));
+    printf("%s\n", crypt("Loic", "$3$$"));
 }
