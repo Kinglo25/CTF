@@ -59,5 +59,23 @@ def crawl(url, depth):
 
 if __name__ == "__main__":
     open('wordlist.txt', 'w').close()
-    start_url = 'https://en.wikipedia.org/wiki/Ada_Lovelace_(microarchitecture)'  # Replace with the starting URL
-    crawl(start_url, depth=2)  # Adjust the depth as needed
+    start_urls = [
+                  'https://en.wikipedia.org/wiki/History_of_programming_languages',
+                  'https://en.wikipedia.org/wiki/List_of_compilers',
+                  'https://en.wikipedia.org/wiki/Lists_of_computers',
+                  'https://en.wikipedia.org/wiki/Computer_security',
+                  'https://en.wikipedia.org/wiki/Computer_virus',
+                  'https://en.wikipedia.org/wiki/List_of_computer_scientists',
+                  'https://en.wikipedia.org/wiki/Computer_science',
+                  'https://en.wikipedia.org/wiki/Computer_network',
+                    'https://en.wikipedia.org/wiki/Computer_hardware',
+                    'https://en.wikipedia.org/wiki/Computer_software',
+                    'https://en.wikipedia.org/wiki/Computer_programming',
+                    'https://en.wikipedia.org/wiki/Computer',
+                    'https://en.wikipedia.org/wiki/ada_lovelace',
+                    'https://en.wikipedia.org/wiki/Grace_Hopper',
+                  
+
+                ] # Replace with the starting URL
+    for start_url in start_urls:
+        crawl(start_url, depth=1)  # Adjust the depth as needed

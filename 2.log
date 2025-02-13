@@ -1,0 +1,323 @@
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 7 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+6 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 Command line: ./john/run/john --format=NT --mask=[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9] --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 64
+2 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 512 (64 * 8)
+1 0:00:00:00 - No stacked rules
+3 0:00:00:17 Session aborted
+5 0:00:00:17 Session aborted
+2 0:00:00:17 Session aborted
+6 0:00:00:17 Session aborted
+4 0:00:00:17 Session aborted
+1 0:00:00:17 Waiting for 5 children to terminate
+1 0:00:00:17 Session aborted
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 7 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+3 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 Command line: ./john/run/john --format=NT --mask=19?d?d?u?l?l?l?l?l --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 64
+5 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+1 0:00:00:00 - No stacked rules
+2 0:00:19:43 Session completed
+6 0:00:19:43 Session completed
+4 0:00:19:46 Session completed
+5 0:00:19:50 Session completed
+3 0:00:19:57 Session completed
+1 0:00:07:11 Waiting for 5 children to terminate
+1 0:00:19:57 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+3 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+1 0:00:00:00 Command line: ./john/run/john --format=NT --mask=?d?d?d?d?d?d?d?d?d?d --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+5 0:00:00:00 Autotune found best speed at MKPC of 2048 (256 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 1024 (128 * 8)
+1 0:00:00:00 - No stacked rules
+3 0:00:00:35 Session aborted
+2 0:00:00:35 Session aborted
+5 0:00:00:35 Session aborted
+4 0:00:00:35 Session aborted
+6 0:00:00:35 Session aborted
+1 0:00:00:35 Waiting for 5 children to terminate
+1 0:00:00:35 Session aborted
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+1 0:00:00:00 Command line: ./john/run/john --format=NT --mask=19?d?d[- ./]?d?d[- ./]?d?d --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+2 0:00:00:00 Autotune found best speed at MKPC of 512 (64 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 4096 (512 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 8192 (1024 * 8)
+1 0:00:00:00 - No stacked rules
+2 0:00:00:00 Session completed
+6 0:00:00:00 Session completed
+3 0:00:00:00 Session completed
+4 0:00:00:00 Session completed
+5 0:00:00:00 Session completed
+1 0:00:00:00 Waiting for 5 children to terminate
+1 0:00:00:00 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+5 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 Command line: ./john/run/john --format=NT --mask=?d?d[- ./]?d?d[- ./]19?d?d --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 64
+2 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+1 0:00:00:00 - No stacked rules
+5 0:00:00:00 Session completed
+2 0:00:00:00 Session completed
+4 0:00:00:00 Session completed
+6 0:00:00:00 Session completed
+3 0:00:00:00 Session completed
+1 0:00:00:00 Waiting for 5 children to terminate
+1 0:00:00:00 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+2 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+1 0:00:00:00 Command line: ./john/run/john --format=NT --mask=?d?d[- ./]?d?d[- ./]18?d?d --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+3 0:00:00:00 Autotune found best speed at MKPC of 4096 (512 * 8)
+1 0:00:00:00 - No stacked rules
+5 0:00:00:00 Session completed
+4 0:00:00:00 Session completed
+2 0:00:00:00 Session completed
+6 0:00:00:00 Session completed
+3 0:00:00:00 Session completed
+1 0:00:00:00 Waiting for 5 children to terminate
+1 0:00:00:00 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+4 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+1 0:00:00:00 Command line: ./john/run/john --format=NT --mask=?d?d[- ./]?d?d[- ./]20?d?d --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 1024
+3 0:00:00:00 Autotune found best speed at MKPC of 1024 (128 * 8)
+1 0:00:00:00 - No stacked rules
+6 0:00:00:00 Session completed
+5 0:00:00:00 Session completed
+4 0:00:00:00 Session completed
+2 0:00:00:00 Session completed
+3 0:00:00:00 Session completed
+1 0:00:00:00 Waiting for 5 children to terminate
+1 0:00:00:00 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+2 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+1 0:00:00:00 Command line: ./john/run/john --format=NT --mask=?d?d[- ./]?d?d[- ./]2?d?d?d --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 2048
+1 0:00:00:00 - No stacked rules
+4 0:00:00:06 Session completed
+2 0:00:00:06 Session completed
+3 0:00:00:06 Session completed
+5 0:00:00:06 Session completed
+6 0:00:00:06 Session completed
+1 0:00:00:02 Waiting for 5 children to terminate
+1 0:00:00:06 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 16 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+1 0:00:00:00 Command line: ./john/run/john --mask=?d?d[- ./]?d?d[- ./]2?d?d?d --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 - Target encoding: CP850
+1 0:00:00:00 - Rules/masks using CP850
+1 0:00:00:00 - Hash type: LM (min-len 0, max-len 7, longer passwords split)
+1 0:00:00:00 - Algorithm: DES 128/128 ASIMD
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+6 0:00:00:00 Session completed
+4 0:00:00:00 Session completed
+3 0:00:00:00 Session completed
+2 0:00:00:00 Session completed
+1 0:00:00:00 - No stacked rules
+5 0:00:00:00 Session completed
+1 0:00:00:00 Waiting for 5 children to terminate
+1 0:00:00:00 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 18 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+1 0:00:00:00 Command line: ./john/run/john --mask=?l?l?l?l?l?l?l?l --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 - Target encoding: CP850
+1 0:00:00:00 - Rules/masks using CP850
+1 0:00:00:00 - Hash type: LM (min-len 0, max-len 7, longer passwords split)
+1 0:00:00:00 - Algorithm: DES 128/128 ASIMD
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+1 0:00:00:00 - No stacked rules
+2 0:00:00:41 Session aborted
+4 0:00:00:42 Session aborted
+3 0:00:00:42 Session aborted
+5 0:00:00:42 Session aborted
+6 0:00:00:42 Session aborted
+1 0:00:00:42 Waiting for 5 children to terminate
+1 0:00:00:42 Session aborted
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 9 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+6 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 512 (64 * 8)
+1 0:00:00:00 Command line: ./john/run/john --format=NT --mask=?l?l?l?l?l?l?l?l --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 2048
+1 0:00:00:00 - No stacked rules
+6 0:00:00:06 Session aborted
+3 0:00:00:06 Session aborted
+4 0:00:00:06 Session aborted
+2 0:00:00:06 Session aborted
+5 0:00:00:06 Session aborted
+1 0:00:00:06 Waiting for 5 children to terminate
+1 0:00:00:06 Session aborted
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 9 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+6 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+2 0:00:00:00 Terminating on error, mask.c:1883
+6 0:00:00:00 Session completed
+1 0:00:00:00 Command line: ./john/run/john --format=NT --mask=pq --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 Terminating on error, mask.c:1883
+4 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+4 0:00:00:00 Terminating on error, mask.c:1883
+5 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+5 0:00:00:00 Terminating on error, mask.c:1883
+3 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+3 0:00:00:00 Terminating on error, mask.c:1883
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 9 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+5 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+5 0:00:00:00 Terminating on error, mask.c:1883
+3 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+3 0:00:00:00 Terminating on error, mask.c:1883
+4 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+4 0:00:00:00 Terminating on error, mask.c:1883
+6 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+6 0:00:00:00 + Cracked ?
+6 0:00:00:00 Session completed
+1 0:00:00:00 Command line: ./john/run/john --format=NT --mask=password --fork=6 hashes.txt --session=2 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 Proceeding with mask mode
+1 0:00:00:00 Terminating on error, mask.c:1883
+2 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+2 0:00:00:00 Terminating on error, mask.c:1883

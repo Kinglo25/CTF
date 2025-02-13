@@ -1,0 +1,467 @@
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+6 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 64
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - memory mapping wordlist (758527470 bytes)
+1 0:00:00:00 - No word mangling rules
+2 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 512 (64 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 1024 (128 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+3 0:00:00:13 Session completed
+5 0:00:00:13 Session completed
+2 0:00:00:14 Session completed
+4 0:00:00:14 Session completed
+6 0:00:00:14 Session completed
+1 0:00:00:04 Waiting for 5 children to terminate
+1 0:00:00:14 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+4 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - memory mapping wordlist (725650530 bytes)
+1 0:00:00:00 - No word mangling rules
+5 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+2 0:00:00:12 Session completed
+5 0:00:00:12 Session completed
+4 0:00:00:13 Session completed
+6 0:00:00:13 Session completed
+3 0:00:00:13 Session completed
+1 0:00:00:04 Waiting for 5 children to terminate
+1 0:00:00:13 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+5 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 512 (64 * 8)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 1024 (128 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 8192
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+3 0:00:00:46 Session completed
+2 0:00:00:53 Session completed
+5 0:00:00:55 Session completed
+6 0:00:00:56 Session completed
+4 0:00:00:57 Session completed
+1 0:00:00:14 Waiting for 5 children to terminate
+1 0:00:00:57 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+5 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+4 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 1024 (128 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 2048 (256 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+4 0:00:00:30 Session completed
+2 0:00:00:38 Session completed
+6 0:00:00:41 Session completed
+5 0:00:00:42 Session completed
+3 0:00:00:42 Session completed
+1 0:00:00:09 Waiting for 5 children to terminate
+1 0:00:00:42 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+5 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 512 (64 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 4096
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+2 0:00:00:00 Autotune found best speed at MKPC of 1024 (128 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+5 0:00:00:58 Session completed
+6 0:00:01:09 Session completed
+4 0:00:01:17 Session completed
+2 0:00:01:23 Session completed
+3 0:00:01:27 Session completed
+1 0:00:00:19 Waiting for 5 children to terminate
+1 0:00:01:27 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+6 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 1024
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - memory mapping wordlist (29625330 bytes)
+1 0:00:00:00 - No word mangling rules
+3 0:00:00:00 Autotune found best speed at MKPC of 512 (64 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 4096 (512 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+6 0:00:00:00 Session completed
+3 0:00:00:00 Session completed
+4 0:00:00:00 Session completed
+5 0:00:00:00 Session completed
+2 0:00:00:00 Session completed
+1 0:00:00:00 Waiting for 5 children to terminate
+1 0:00:00:00 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+3 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 512
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+4 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+2 0:00:01:25 Session completed
+3 0:00:01:37 Session completed
+4 0:00:01:47 Session completed
+6 0:00:01:53 Session completed
+5 0:00:01:58 Session completed
+1 0:00:00:29 Waiting for 5 children to terminate
+1 0:00:01:58 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 64
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+2 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+6 0:00:01:46 Session completed
+4 0:00:01:57 Session completed
+2 0:00:02:08 Session completed
+3 0:00:02:19 Session completed
+5 0:00:02:27 Session completed
+1 0:00:00:39 Waiting for 5 children to terminate
+1 0:00:02:27 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+6 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+3 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+6 0:00:01:04 Session completed
+5 0:00:01:17 Session completed
+2 0:00:01:24 Session completed
+3 0:00:01:27 Session completed
+4 0:00:01:29 Session completed
+1 0:00:00:21 Waiting for 5 children to terminate
+1 0:00:01:29 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+4 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 4096 (512 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 32768
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+6 0:00:00:00 Autotune found best speed at MKPC of 4096 (512 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+2 0:00:01:41 Session completed
+6 0:00:01:59 Session completed
+4 0:00:02:05 Session completed
+3 0:00:02:15 Session completed
+5 0:00:02:22 Session completed
+1 0:00:00:34 Waiting for 5 children to terminate
+1 0:00:02:21 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+6 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+3 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 8192 (1024 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+3 0:00:00:44 Session completed
+5 0:00:00:51 Session completed
+4 0:00:00:58 Session completed
+6 0:00:01:00 Session completed
+2 0:00:01:00 Session completed
+1 0:00:00:12 Waiting for 5 children to terminate
+1 0:00:01:00 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 64
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+2 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+4 0:00:00:31 Session completed
+3 0:00:00:37 Session completed
+5 0:00:00:40 Session completed
+2 0:00:00:40 Session completed
+6 0:00:00:40 Session completed
+1 0:00:00:07 Waiting for 5 children to terminate
+1 0:00:00:40 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 64
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+4 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 1024 (128 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+5 0:00:00:48 Session completed
+2 0:00:00:56 Session completed
+6 0:00:01:03 Session completed
+4 0:00:01:06 Session completed
+3 0:00:01:07 Session completed
+1 0:00:00:13 Waiting for 5 children to terminate
+1 0:00:01:07 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+4 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+6 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 256 (32 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+2 0:00:03:14 Session completed
+3 0:00:03:29 Session completed
+5 0:00:03:39 Session completed
+6 0:00:03:53 Session completed
+4 0:00:04:07 Session completed
+1 0:00:01:15 Waiting for 5 children to terminate
+1 0:00:04:07 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 64
+6 0:00:00:00 Autotune found best speed at MKPC of 8 (1 * 8)
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+5 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+2 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 2048 (256 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+6 0:00:02:07 Session completed
+3 0:00:02:19 Session completed
+4 0:00:02:31 Session completed
+2 0:00:02:42 Session completed
+5 0:00:02:48 Session completed
+1 0:00:00:44 Waiting for 5 children to terminate
+1 0:00:02:48 Session completed
+1 0:00:00:00 Starting a new session
+1 0:00:00:00 Loaded a total of 8 password hashes with no different salts
+1 0:00:00:00 - Node numbers 1-6 of 6 (fork)
+1 0:00:00:00 Command line: ./john/run/john --wordlist=variation.txt --pot=cracked.txt --format=NT --session=NT --fork=6 hashes.txt 
+1 0:00:00:00 - UTF-8 input encoding enabled
+1 0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+1 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+1 0:00:00:00 - Hash type: NT (min-len 0, max-len 27)
+1 0:00:00:00 - Algorithm: MD4 128/128 ASIMD 4x2
+1 0:00:00:00 - Configured to use otherwise idle processor cycles only
+1 0:00:00:00 - Will reject candidates longer than 81 bytes
+1 0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 128
+2 0:00:00:00 Autotune found best speed at MKPC of 16 (2 * 8)
+1 0:00:00:00 Proceeding with wordlist mode
+1 0:00:00:00 - Wordlist file: variation.txt
+1 0:00:00:00 - No word mangling rules
+6 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+4 0:00:00:00 Autotune found best speed at MKPC of 32 (4 * 8)
+3 0:00:00:00 Autotune found best speed at MKPC of 128 (16 * 8)
+5 0:00:00:00 Autotune found best speed at MKPC of 64 (8 * 8)
+1 0:00:00:00 - No stacked rules
+1 0:00:00:00 - Will distribute words across nodes
+4 0:00:02:28 Session completed
+6 0:00:02:38 Session completed
+5 0:00:02:49 Session completed
+3 0:00:03:02 Session completed
+2 0:00:03:10 Session completed
+1 0:00:00:57 Waiting for 5 children to terminate
+1 0:00:03:10 Session completed

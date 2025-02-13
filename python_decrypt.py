@@ -1,5 +1,6 @@
 import subprocess
 from itertools import permutations, product
+from time import sleep
 from collections import defaultdict
 
 def generate_passwords(word_list, combination_length):
@@ -33,23 +34,25 @@ def generate_passwords(word_list, combination_length):
 
 def process_chunk(chunk, variation_file, usernames):
     buffer = []
-    for i in range(1, 4):
+    for i in range(1, 3):
         gen = generate_passwords(chunk, i)
         for password in gen:
-            buffer.extend(f"{user}  {password}\n" for user in usernames)
-    
+            # buffer.extend(f"{user}  {password}\n" for user in usernames)
+            buffer.extend(f"{user}{password}\n" for user in usernames)
     variation_file.writelines(buffer)
     variation_file.flush()
     
-    print("Running John the Ripper...")
+    print("Running John the Ripper...", flush=True)
     subprocess.run([
         "./john/run/john",
         "--wordlist=variation.txt",
         "--pot=cracked.txt",
         "--format=NT",
+        "--session=NT",
         "--fork=6",
         "hashes.txt"
     ], check=True)
+    print("John the Ripper finished.", flush=True)
     variation_file.seek(0)
     variation_file.truncate()
 
@@ -65,14 +68,10 @@ if __name__ == "__main__":
     for user in base_usernames:
         usernames.update({user, user.lower(), user.upper()})
 
-    CHUNK_SIZE = 1000
-    with open('wordlist.txt', 'r') as f, open('variation.txt', 'w+') as variation:
+    with open('wordlist.txt', 'r') as f, open('variation.txt', 'w') as variation:
         chunk = set()
         for line in f:
             chunk.update(word.strip() for word in line.split())
-            if len(chunk) >= CHUNK_SIZE:
-                process_chunk(chunk, variation, usernames)
-                chunk.clear()
-        
-        if chunk:
-            process_chunk(chunk, variation, usernames)
+        process_chunk(chunk, variation, usernames)
+        print("Finished processing initial chunk.", flush=True)
+        chunk.clear()
